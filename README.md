@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am computer science engineer. I have been working part-time, full time and freelance over 4 years. Currently, I am working as Backend Developer at QReal
+I am computer science engineer. I have been working part-time, full time and freelance over 4 years. Currently, I am working as Software Engineer at Virtuagym
 
 
 ## 🌐 Socials:
